@@ -9,7 +9,7 @@ I'm a beginner developer currently learning to code and exploring the world of s
 - 👯 I'm looking to collaborate on: **beginner-friendly projects**
 - 💬 Ask me about: **anything I'm learning — happy to share notes!**
 
-- ⚡ Fun fact: **obssed with tech**                                                                                                             
+- ⚡ Fun fact: **obessed with tech**                                                                                                             
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/sdxlightt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sdxlightt" height="30" width="40" /></a>
