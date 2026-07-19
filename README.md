@@ -1,3 +1,4 @@
+
 # Hi, I'm Sadek 👋
 
 I'm a beginner developer currently learning to code and exploring the world of software development.
@@ -17,13 +18,13 @@ I'm a beginner developer currently learning to code and exploring the world of s
 ![Git](https://img.shields.io/badge/-Git-red)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sdxlightt&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdxlightt&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sdxlightt&theme=radical)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sdxlightt&theme=react-dark)
 
 ## 📌 Pinned Projects
 - **[Project Name](link)** — short description of what it does
